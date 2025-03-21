@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ako si Sean, maraming pangarap sa buhay!
 
 <!--
 **sean2c/sean2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
